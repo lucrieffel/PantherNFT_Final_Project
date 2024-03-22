@@ -12,5 +12,3 @@
 ### Future improvements: Add more NFT's to the project and work on a front end interface for users to buy NFT's
 
 ### Verified contract link: https://sepolia.etherscan.io/address/0xbb17416aE3c2FdAf829234Ef5466EEDf9bADC396#code
-
-### Final Presentation link: https://youtu.be/7Ex1BoagTWI
